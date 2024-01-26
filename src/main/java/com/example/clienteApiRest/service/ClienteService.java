@@ -1,4 +1,4 @@
-package com.example.clienteApiRest.Service;
+package com.example.clienteApiRest.service;
 
 import com.example.clienteApiRest.models.Cliente;
 import com.example.clienteApiRest.repository.ClienteRepository;

@@ -1,10 +1,8 @@
 package com.example.clienteApiRest.controllers;
 
-import com.example.clienteApiRest.Service.ClienteService;
+import com.example.clienteApiRest.service.ClienteService;
 import com.example.clienteApiRest.models.Cliente;
-import com.example.clienteApiRest.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
